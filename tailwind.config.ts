@@ -11,6 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        'neon-green': '#39ff14',
+        'neon-blue': '#4dc9ff',
+      },
+      fontFamily: {
+        playfair: ['"Playfair Display"', "serif"],
+        roboto: ["Roboto", "sans-serif"],
       },
     },
   },
